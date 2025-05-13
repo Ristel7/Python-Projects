@@ -24,3 +24,6 @@ Withdraw cash
 Deposit cash
 
 View a mini statement of recent transactions
+
+SHOP.PY
+Gadgets World is a beginner-friendly Python-based command-line application that simulates a simple shopping experience for electronic gadgets. The script allows users to explore and choose between two main gadget categories—Mobiles and Laptops—and view prices based on selected brands.
